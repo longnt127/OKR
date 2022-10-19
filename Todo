@@ -1,0 +1,25 @@
+    
+    // Build UI for music-player
+    
+    // Call API from spotify to get playlist
+
+    // Control
+        // Handle when the song is played
+        // Handle when the song is pause
+        // Handle when the song progress changes
+        // Handling when seek
+        // When next song
+        // When prev song
+        // Handling on / off random song
+        // Single-parallel repeat processing
+        // Handle next song when audio ended
+        // Handle when clicking on the song option
+
+    // CD
+        // Handle CD spins / stops 
+        // Handles CD enlargement / reduction
+        // Handle when click play
+
+    
+
+
